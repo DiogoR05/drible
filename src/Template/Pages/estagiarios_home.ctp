@@ -123,6 +123,18 @@
                   <li class="lead">Seleciona a imagem que queres para foto de perfil (Tem que ser uma imagem tua)</li>
             </ul>
 
+          <h2>Identifica o teu mentor</h2>
+
+           <ul>
+                 <li class="lead">No canto superior esquerdo do Slack, clica na seta que está junto a “Drible Interns”.</li>
+                 <li class="lead">Depois clica em “Edit Status” e verás uma parte para selecionar emoji e outra para colocar um texto.</li>
+                 <li class="lead">No espaço para emoji colocas um peixe se fores estagiário ou um tubarão se fores mentor.</li>
+                 <li class="lead">Se fores estagiário, no espaço de escrever coloca o nome do teu mentor.</li>
+           </ul>
+
+           <p class="lead"><a><strong>NOTA: </strong>Se ainda não tens um mentor atribuido, não te preocupes que vamos tratar disso e procede para o passo seguinte.</a></p>
+
+           <hr>
             <hr>
 
             <h2>Introduz-te</h2>
